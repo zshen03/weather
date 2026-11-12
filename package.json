@@ -1,0 +1,10 @@
+{
+  "name": "weather-now",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal Vercel app showing the current temperature and humidity.",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js"
+  }
+}
